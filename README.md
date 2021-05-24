@@ -1,5 +1,5 @@
 <!-- <img src="https://github.com/NumanAnees/NumanAnees/blob/master/hello.gif" alt = "hello" width="40px" height="40px"> -->
-<h1 align="center"> <img src="https://github.com/dheerajkotwani/dheerajkotwani/blob/master/hello.gif" alt="hello-gif"> <br >I'm <a href="https://www.linkedin.com/in/numananees/">Numan Anees</a>👨‍💻</h1>
+<h1 align="center"> <img src="https://github.com/dheerajkotwani/dheerajkotwani/blob/master/hello.gif" alt="hello-gif"> <br >I'm <a href="https://www.linkedin.com/in/numananees/">Moutamid</a>👨‍💻</h1>
 <!-- # Numan Anees 👨‍💻 -->
 
 [![Linkedin Badge](https://img.shields.io/badge/NumanAnees-30302f?style=flat&logo=linkedin)](https://www.linkedin.com/in/numananees/)
@@ -8,7 +8,7 @@
 
 
 ## Hi there 👋,           
-#### I'm Numan Anees, Student at 👨‍💻 PUCIT Pursuing BSC.  I am tech enthusiast, I love to build Web Application and currently focusing on Threejs and backend.  
+#### I'm Moutamid, Student at 👨‍💻 PUCIT Pursuing BSC.  I am tech enthusiast, I love to build Android Applications and currently focusing on Flutter and backend.  
 
 <img align="right" alt="GIF" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" width="400px" />
 
@@ -16,7 +16,7 @@
 ☯ I'm a **Developer | Thinker | Creator | Learner**
 - 🌱 Learning new things everyday.
 - 🚀 Science Enthusiast who loves to learn the mysteries about the Universe.
-- 👨‍💻 FrontEnd developer who loves web development.
+- 👨‍💻 FrontEnd and Backend developer who loves android development.
 - 😄 I usually like to make open source contributions.
 - 🌱 I love to learn new Technologies and ready to help others.
 - 👯 And Many More...
