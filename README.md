@@ -26,13 +26,13 @@
 
 
 - 💬 Ask me about anything and everything! 
-- 📫 How to reach me: https://numananees.netlify.app/
+- 📫 How to reach me: https://moutamid.netlify.app/
 - ⚡ Fun fact: I usually like coding at nights! 
 
 <a href="https://Moutamid.github.io">
   <img src="https://github-readme-stats.vercel.app/api?username=Moutamid&theme=radical&count_private=true" align="center"/>
 </a>
-<a href="https://NumanAnees.github.io">
+<a href="https://Moutamid.github.io">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Moutamid&theme=radical&layout=compact" align="center"/>
 </a>
 <br>
