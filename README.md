@@ -2,8 +2,8 @@
 <h1 align="center"> <img src="https://github.com/dheerajkotwani/dheerajkotwani/blob/master/hello.gif" alt="hello-gif"> <br >I'm <a href="https://www.linkedin.com/in/numananees/">Moutamid</a>👨‍💻</h1>
 <!-- # Numan Anees 👨‍💻 -->
 
-[![Linkedin Badge](https://img.shields.io/badge/NumanAnees-30302f?style=flat&logo=linkedin)](https://www.linkedin.com/in/Moutamid/)
-[![Gmail Badge](https://img.shields.io/badge/numananees44@gmail.com-30302f?style=flat&logo=Gmail&logoColor=white)](mailto:Moutamid@gmail.com)
+[![Linkedin Badge](https://img.shields.io/badge/Moutamid-30302f?style=flat&logo=linkedin)](https://www.linkedin.com/in/Moutamid/)
+[![Gmail Badge](https://img.shields.io/badge/lumianokia188@gmail.com-30302f?style=flat&logo=Gmail&logoColor=white)](mailto:lumianokia188@gmail.com)
 ![](https://visitor-badge.glitch.me/badge?page_id=Moutamid)  
 
 
@@ -38,11 +38,11 @@
 <br>
 <br>
 <p align="center">
-<img src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/c.svg" alt="C" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/c-plusplus.svg" alt="C++" width="40" height="40"/> 
-<img src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/html-5.svg" alt="HTML-5" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/css-3.svg" alt="CSS" width="40" height="40"/> 
-<img src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/javascript.svg" alt="Javascript" width="40" height="40"/> 
+<!-- <img src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/c.svg" alt="C" width="40" height="40"/> -->
+<!-- <img src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/c-plusplus.svg" alt="C++" width="40" height="40"/>  -->
+<!-- <img src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/html-5.svg" alt="HTML-5" width="40" height="40"/> -->
+<!-- <img src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/css-3.svg" alt="CSS" width="40" height="40"/>  -->
+<!-- <img src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/javascript.svg" alt="Javascript" width="40" height="40"/>  -->
 <img src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/mysql.svg" alt="My-SQL" width="40" height="40"/>
 <img src="https://github.com/gilbarbara/logos/blob/master/logos/react.svg" alt="Java" width="40" height="40"/> 
 <img src="https://github.com/gilbarbara/logos/blob/master/logos/python.svg" alt="python" width="40" height="40"/> 
