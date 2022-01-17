@@ -2,13 +2,13 @@
 <h1 align="center"> <img src="https://github.com/dheerajkotwani/dheerajkotwani/blob/master/hello.gif" alt="hello-gif"> <br >I'm <a href="https://www.linkedin.com/in/numananees/">Moutamid</a>👨‍💻</h1>
 <!-- # Numan Anees 👨‍💻 -->
 
-[![Linkedin Badge](https://img.shields.io/badge/Moutamid-30302f?style=flat&logo=linkedin)](https://www.linkedin.com/in/Moutamid/)
+[![Instagram Badge](https://img.shields.io/badge/Moutamid-30302f?style=flat&logo=instagram)](https://www.instagram.com/hi.moutamid/)
 [![Gmail Badge](https://img.shields.io/badge/lumianokia188@gmail.com-30302f?style=flat&logo=Gmail&logoColor=white)](mailto:lumianokia188@gmail.com)
 ![](https://visitor-badge.glitch.me/badge?page_id=Moutamid)  
 
 
 ## Hi there 👋,           
-#### I'm Moutamid, Student at 👨‍💻 PUCIT Pursuing BSC.  I am tech enthusiast, I love to build Android Applications and currently focusing on Flutter and backend.  
+#### I'm Moutamid, Student of 👨‍💻 Android Programming.  I am tech enthusiast, I love to build Android Applications and currently focusing on Flutter and backend.  
 
 <img align="right" alt="GIF" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" width="400px" />
 
@@ -26,13 +26,13 @@
 
 
 - 💬 Ask me about anything and everything! 
-- 📫 How to reach me: https://moutamid.netlify.app/
+- 📫 How to reach me: https://www.moutamid.com/
 - ⚡ Fun fact: I usually like coding at nights! 
 
-<a href="https://Moutamid.github.io">
+<a href="https://moutamid.com">
   <img src="https://github-readme-stats.vercel.app/api?username=Moutamid&theme=radical&count_private=true" align="center"/>
 </a>
-<a href="https://Moutamid.github.io">
+<a href="https://moutamid.com">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Moutamid&theme=radical&layout=compact" align="center"/>
 </a>
 <br>
