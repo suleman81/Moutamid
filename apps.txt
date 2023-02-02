@@ -6,5 +6,9 @@
    "mynotes":{
       "value":false,
       "msg":"App has been stopped!"
+   },
+   "tikmobilestudio":{
+      "value":false,
+      "msg":"App has been stopped!"
    }
 }
