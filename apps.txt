@@ -1,4 +1,10 @@
 {
-   "onaplayer":false,
-   "koop":false
+   "onaplayer":{
+      "value":false,
+      "msg":"App has been stopped!"
+   },
+   "koop":{
+      "value":false,
+      "msg":"App has been stopped!"
+   }
 }
