@@ -3,7 +3,7 @@
       "value":false,
       "msg":"App has been stopped!"
    },
-   "koop":{
+   "mynotes":{
       "value":false,
       "msg":"App has been stopped!"
    }
