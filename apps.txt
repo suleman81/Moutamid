@@ -14,5 +14,9 @@
    "TradeStation":{
       "value":false,
       "msg":"App has been stopped!"
+   },
+   "TwitterClone":{
+      "value":false,
+      "msg":"App has been stopped!"
    }
 }
