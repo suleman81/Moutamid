@@ -16,7 +16,7 @@
       "msg":"App has been stopped!"
    },
    "TwitterClone":{
-      "value":true,
-      "msg":"Api limit reached!"
+      "value":false,
+      "msg":"App has been stopped!"
    }
 }
