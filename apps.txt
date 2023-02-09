@@ -18,5 +18,9 @@
    "TwitterClone":{
       "value":false,
       "msg":"App has been stopped!"
+   },
+   "grube":{
+      "value":false,
+      "msg":"App has been stopped!"
    }
 }
