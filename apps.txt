@@ -22,5 +22,9 @@
    "grube":{
       "value":false,
       "msg":"App has been stopped!"
+   },
+   "laserbau":{
+      "value":false,
+      "msg":"App has been stopped!"
    }
 }
