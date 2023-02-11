@@ -24,7 +24,7 @@
       "msg":"App has been stopped!"
    },
    "laserbau":{
-      "value":false,
+      "value":true,
       "msg":"App has been stopped!"
    }
 }
