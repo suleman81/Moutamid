@@ -26,5 +26,9 @@
    "laserbau":{
       "value":false,
       "msg":"App has been stopped!"
+   },
+   "SimpleVideoPlayer":{
+      "value":true,
+      "msg":"App has been stopped!"
    }
 }
