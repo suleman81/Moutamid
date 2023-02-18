@@ -20,12 +20,12 @@
       "msg":"App has been stopped!"
    },
    "grube":{
-      "value":false,
-      "msg":"App has been stopped!"
+      "value":true,
+      "msg":"App's limit has been reached!"
    },
    "laserbau":{
       "value":false,
-      "msg":"App has been stopped!"
+      "msg":"App's limit has been reached!"
    },
    "SimpleVideoPlayer":{
       "value":false,
