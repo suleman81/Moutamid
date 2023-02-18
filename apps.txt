@@ -28,7 +28,7 @@
       "msg":"App has been stopped!"
    },
    "SimpleVideoPlayer":{
-      "value":true,
+      "value":false,
       "msg":"App has been stopped!"
    }
 }
