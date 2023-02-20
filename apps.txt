@@ -24,8 +24,8 @@
       "msg":"App's limit has been reached!"
    },
    "laserbau":{
-      "value":false,
-      "msg":"App's limit has been reached!"
+      "value":true,
+      "msg":"Data limit reached!"
    },
    "SimpleVideoPlayer":{
       "value":false,
