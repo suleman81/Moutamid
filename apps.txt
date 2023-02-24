@@ -28,7 +28,7 @@
       "msg":"Data limit reached!"
    },
    "SimpleVideoPlayer":{
-      "value":false,
+      "value":true,
       "msg":"App has been stopped!"
    }
 }
